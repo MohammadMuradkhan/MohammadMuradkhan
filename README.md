@@ -1,154 +1,228 @@
 
-<!-- ═════════════════════ HEADER ═════════════════════ -->
+<!-- ═══════════════════ HERO ═══════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:24372B,50:52694D,100:B18A62&height=200&section=header&text=Mohammad%20Murad%20Khan&fontSize=40&fontColor=FFF4E2&fontAlignY=40&desc=CODE%20%7C%20CURIOSITY%20%7C%20CONTINUOUS%20LEARNING&descSize=15&descColor=F0DFC3&descAlignY=67" width="100%" alt="Mohammad Murad Khan"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:172D22,45:3F6048,75:8B7652,100:C19A6B&height=220&section=header&text=Mohammad%20Murad%20Khan&fontSize=42&fontColor=FFF4DF&fontAlignY=39&desc=SOFTWARE%20DEVELOPMENT%20%20%7C%20%20CURIOSITY%20%20%7C%20%20GROWTH&descSize=16&descColor=F1E3CC&descAlignY=65" width="100%" alt="Mohammad Murad Khan"/>
 
 <br/>
 
-# Assalamu Alaikum · السلام عليكم
+<h2>السلام علیکم &nbsp; · &nbsp; Assalamu Alaikum 🌿</h2>
 
-### CSE @ NIT Srinagar &nbsp; | &nbsp; Developer &nbsp; | &nbsp; Curious by nature
+### CSE Student @ NIT Srinagar
+
+*Building things, solving problems, figuring things out.*
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-405B43?style=for-the-badge&logo=github&logoColor=FFF4E2)](https://github.com/MohammadMuradkhan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20solving-A77B4F?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohammadmuradkhan/)
+<a href="https://github.com/MohammadMuradkhan">
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-405B43?style=for-the-badge&logo=github&logoColor=FFF4DF" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/mohammadmuradkhan/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20solving-A77B4F?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-DSA%20%26%20C%2B%2B-304C3A?style=flat-square" alt="Focus: DSA and C++"/>
+<img src="https://img.shields.io/badge/BUILDING-Full--Stack%20Apps-725B40?style=flat-square" alt="Building full-stack apps"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20Data-9A795A?style=flat-square" alt="Exploring AI and data"/>
 
 </div>
 
 ---
 
-## 🌿 A bit about me
+## 🌿 &nbsp; A bit about me
 
-Hey! I'm **Mohammad Murad Khan**, a Computer Science and Engineering student at **NIT Srinagar**.
+Hey, I'm **Mohammad Murad Khan**, a Computer Science and Engineering student at **NIT Srinagar, Kashmir**.
 
-I enjoy solving problems, building things that actually work, and understanding what happens behind the scenes. Most days, you'll find me somewhere between C++, web development, and an idea I want to experiment with.
+I enjoy solving problems, building useful things, and understanding how software works behind the scenes. I'm especially interested in backend engineering, AI/ML, and making sense of data.
 
-I'm particularly interested in backend engineering, AI/ML, and turning raw data into something meaningful.
-
-- 💻 Writing C++ and practising Data Structures & Algorithms.
-- ⚙️ Building full-stack applications and exploring backend systems.
-- 🤖 Exploring AI/ML and Exploratory Data Analysis (EDA).
-- 🌱 Learning something new, one step at a time.
+<table>
+<tr>
+<td>💻</td>
+<td><strong>Problem solving</strong><br/>C++, DSA, algorithms and logical thinking.</td>
+</tr>
+<tr>
+<td>⚙️</td>
+<td><strong>Development</strong><br/>Building full-stack applications and exploring backend systems.</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><strong>AI & data</strong><br/>Exploring AI/ML and Exploratory Data Analysis (EDA).</td>
+</tr>
+<tr>
+<td>🌱</td>
+<td><strong>Always learning</strong><br/>Trying new ideas, improving old projects, and learning by building.</td>
+</tr>
+</table>
 
 > *Good code solves problems. Curiosity finds better ones.*
 
-## 🧭 What I'm exploring
+---
 
-### 01 · Development
-Building web applications, designing APIs, and understanding how frontend and backend systems work together.
+## 🧭 &nbsp; What keeps me curious
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-Development-365640?style=for-the-badge" alt="Development"/>
+
+Building web applications, designing APIs, and understanding how systems fit together.
 
 `React` &nbsp; `Node.js` &nbsp; `Express`
 
-### 02 · Data & AI
-Exploring datasets, discovering patterns, and learning how machine learning systems work.
+<br/>
+
+<img src="https://img.shields.io/badge/02-Data%20%26%20AI-796447?style=for-the-badge" alt="Data and AI"/>
+
+Exploring datasets, finding patterns, and learning how machine learning works.
 
 `Python` &nbsp; `Pandas` &nbsp; `NumPy`
 
-### 03 · Problem solving
-Practising DSA, improving my approach to algorithms, and preparing for software engineering interviews.
+<br/>
+
+<img src="https://img.shields.io/badge/03-Problem%20Solving-526D60?style=for-the-badge" alt="Problem solving"/>
+
+Practising DSA and improving my approach to technical problems.
 
 `C++` &nbsp; `DSA` &nbsp; `SQL`
 
-### 04 · Beyond technology
-Exploring languages, reading a book now and then, and learning things that have nothing to do with code.
-
-`Arabic` &nbsp; `Persian` &nbsp; `Books`
+</div>
 
 ---
 
-## 🛠️ My tech stack
+## 🛠️ &nbsp; My toolbox
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css&theme=light" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css&theme=light" alt="C++, C, JavaScript, Python, HTML and CSS"/>
 
-### Frontend & Backend
+### Frontend & backend
 
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,nodejs,express&theme=light" alt="Frontend and backend technologies"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,nodejs,express&theme=light" alt="React, Vite, Next.js, Tailwind, Node.js and Express"/>
 
-### Databases
+### Databases & tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=light" alt="Databases and ORM"/>
-
-### Developer tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=light" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,git,github,docker,postman,vscode&theme=light" alt="MongoDB, PostgreSQL, Prisma, Git, GitHub, Docker, Postman and VS Code"/>
 
 </div>
 
 ---
 
-## 🪴 Things I've built
+# 🪴 &nbsp; Selected projects
 
-### 01. Solace AI
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-ARTIFICIAL%20INTELLIGENCE-405B43?style=for-the-badge" alt="Artificial intelligence project"/>
+
+</div>
+
+<h2>🧠 Solace AI</h2>
+
 **An AI-powered mental wellbeing assistant**
 
 A conversational application focused on mental health and emotional wellbeing, using document-based context to support relevant responses.
 
-`React` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Groq`
+`React` &nbsp; `TypeScript` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `Groq`
 
-[↗ View repository](https://github.com/MohammadMuradkhan/Solace_AI)
+<a href="https://github.com/MohammadMuradkhan/Solace_AI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-405B43?style=for-the-badge&logo=github&logoColor=white" alt="View Solace AI repository"/>
+</a>
 
 ---
 
-### 02. URL Shortener
-**A backend development project**
+<div align="center">
+
+<img src="https://img.shields.io/badge/02-BACKEND%20DEVELOPMENT-796447?style=for-the-badge" alt="Backend development project"/>
+
+</div>
+
+<h2>🔗 URL Shortener</h2>
+
+**Small URLs. Solid backend fundamentals.**
 
 A URL-shortening application built to explore REST APIs, database integration, and authentication.
 
-`Node.js` · `Express` · `MongoDB` · `JWT`
+`Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `JWT`
 
-[↗ View repository](https://github.com/MohammadMuradkhan/short-url)
+<a href="https://github.com/MohammadMuradkhan/short-url">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-796447?style=for-the-badge&logo=github&logoColor=white" alt="View URL Shortener repository"/>
+</a>
 
 ---
 
-### 03. React Jobs
+<div align="center">
+
+<img src="https://img.shields.io/badge/03-FRONTEND%20DEVELOPMENT-526D60?style=for-the-badge" alt="Frontend development project"/>
+
+</div>
+
+<h2>💼 React Jobs</h2>
+
 **A modern job-listing interface**
 
 A frontend project built to practise React development and create a clean, responsive user interface.
 
-`React` · `Vite` · `Tailwind CSS`
+`React` &nbsp; `Vite` &nbsp; `Tailwind CSS`
 
-[↗ View repository](https://github.com/MohammadMuradkhan/React-Jobs)
+<a href="https://github.com/MohammadMuradkhan/React-Jobs">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-526D60?style=for-the-badge&logo=github&logoColor=white" alt="View React Jobs repository"/>
+</a>
 
 <div align="center">
 
-[![More projects](https://img.shields.io/badge/Explore-More%20Projects-52694D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadMuradkhan?tab=repositories)
+<br/>
+
+<a href="https://github.com/MohammadMuradkhan?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-263B2D?style=for-the-badge&logo=github&logoColor=FFF4DF" alt="Explore all repositories"/>
+</a>
 
 </div>
 
 ---
 
-## ☕ Beyond the screen
+## 📚 &nbsp; Beyond the screen
 
-Not everything has to be about code.
+A few interests outside the usual developer routine.
 
-- **Languages:** Arabic is at a basic level for me. Persian is a language I'd love to learn from scratch.
-- **Reading:** I enjoy picking up a book now and then, especially when I need a break from screens.
-- **Curiosity:** I like exploring ideas outside computer science just as much as figuring out technical problems.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-There's always something new to discover.
+### 🗣️ Languages
+
+Arabic is at a basic level for me, and Persian is a language I'd love to learn from scratch.
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 Reading
+
+I enjoy picking up a book now and then, taking a break from screens, and exploring ideas outside technology.
+
+</td>
+</tr>
+</table>
+
+*There's a lot to learn beyond the terminal.*
 
 ---
 
-## 📊 My GitHub journey
+# 📊 &nbsp; The GitHub corner
 
 <div align="center">
 
 <a href="https://github.com/MohammadMuradkhan">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammadMuradkhan&show_icons=true&hide_border=true&bg_color=24372B&title_color=E8C99A&icon_color=C1CF9C&text_color=FFF4E2&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammadMuradkhan&show_icons=true&hide_border=true&bg_color=172D22&title_color=E8C99A&icon_color=B9CB9B&text_color=FFF4DF&rank_icon=github" alt="GitHub statistics"/>
 
 </a>
 
 <a href="https://github.com/MohammadMuradkhan">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMuradkhan&layout=donut&hide_border=true&bg_color=24372B&title_color=E8C99A&text_color=FFF4E2" alt="Programming language distribution"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMuradkhan&layout=donut&hide_border=true&bg_color=172D22&title_color=E8C99A&text_color=FFF4DF" alt="Programming language distribution"/>
 
 </a>
 
@@ -156,7 +230,7 @@ There's always something new to discover.
 
 <a href="https://github.com/MohammadMuradkhan">
 
-<img src="https://streak-stats.demolab.com?user=MohammadMuradkhan&hide_border=true&background=24372B&ring=C1CF9C&fire=E8C99A&currStreakLabel=E8C99A&sideLabels=FFF4E2&currStreakNum=FFF4E2&sideNums=FFF4E2&dates=C8C7B9" width="80%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=MohammadMuradkhan&hide_border=true&background=172D22&ring=B9CB9B&fire=E8C99A&currStreakLabel=E8C99A&sideLabels=FFF4DF&currStreakNum=FFF4DF&sideNums=FFF4DF&dates=C8C7B9" width="85%" alt="GitHub contribution streak"/>
 
 </a>
 
@@ -166,7 +240,7 @@ There's always something new to discover.
 
 ---
 
-## 🌱 Until next time
+## 🌄 &nbsp; Until next time
 
 <div align="center">
 
@@ -174,12 +248,16 @@ There's always something new to discover.
 
 <br/>
 
-### Byeth, Rabbas hawaal. 🤎
+### Byеh, Rabbas hawaal. 🤎
 
-<sub>بہتر بننے کا سفر جاری ہے · The journey continues.</sub>
+<p dir="rtl" align="center">
+بہتر بننے کا سفر جاری ہے
+</p>
+
+<sub>Until we meet again — stay in God's care.</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=24372B&height=8" width="100%" alt="Forest green footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=172D22&height=12" width="100%" alt="Forest green footer"/>
 
 </div>
