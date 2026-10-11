@@ -10,8 +10,8 @@
 
 ### CSE @ NIT Srinagar · Developer · Curious by nature
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-405643?style=flat-square&logo=github&logoColor=F5EBDD)](https://github.com/MohammadMuradkhan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20solving-A98467?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohammadmuradkhan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-405643?style=flat-square&logo=github&logoColor=F5EBDD)](https://github.com/MohammadMuradkhan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_solving-A98467?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohammadmuradkhan/)
 
 </div>
 
