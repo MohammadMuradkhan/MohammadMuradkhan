@@ -1,4 +1,4 @@
-<!-- ─────────────── HEADER ─────────────── -->
+ <!-- ─────────────── HEADER ─────────────── -->
 
 <div align="center">
 
@@ -152,13 +152,13 @@ I like learning by building. There are more projects, ideas, and experiments in 
 
 Not everything has to be about code.
 
-- **Languages:** Arabic is on my learning list (basic level so far), and Persian is a language I'd love to learn from scratch.
+- **Languages:** Arabic is at a basic level for me, and Persian is a language I'd love to learn from scratch.
 - **Reading:** I enjoy picking up a book now and then, especially when I need a break from screens.
 - **Curiosity:** I like exploring ideas outside computer science just as much as I like figuring out technical problems.
 
 A little progress every day goes a long way.
 
-## A small look at GitHub
+## GitHub, lately 📈
 
 <div align="center">
 
@@ -167,10 +167,20 @@ A little progress every day goes a long way.
 </a>
 
 <a href="https://github.com/MohammadMuradkhan">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMuradkhan&layout=compact&hide_border=true&bg_color=26382C&title_color=E4CDA7&text_color=F5EBDD" alt="Most-used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMuradkhan&layout=donut&hide_border=true&bg_color=26382C&title_color=E4CDA7&text_color=F5EBDD" alt="Programming language distribution"/>
 </a>
 
 </div>
+
+### The activity trail
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMuradkhan&bg_color=26382C&color=E4CDA7&line=9BAE85&point=D8B68A&area=true&hide_border=true&custom_title=Contributions%20over%20time" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+*Just a record of the journey, not a competition.*
 
 ## Until next time 🌿
 
@@ -178,8 +188,12 @@ A little progress every day goes a long way.
 
 *Keep learning. Stay curious. Build things that matter.*
 
-**شکریہ — Shukriya for stopping by.**
+**Byeh, Rabbas hawaal.** 🤎
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=26382C&height=5" width="100%" alt=""/>
+<sub>بہتر بننے کا سفر جاری ہے · The journey continues.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=26382C&height=5" width="100%" alt="Earthy green footer"/>
 
 </div>
