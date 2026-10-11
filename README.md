@@ -1,59 +1,103 @@
-<!-- Header -->
+<!-- ─────────────── HEADER ─────────────── -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:25382D,50:405643,100:78664A&height=180&section=header&text=Mohammad%20Murad%20Khan&fontSize=38&fontColor=F4EBDD&fontAlignY=43&desc=Computer%20Science%20%7C%20Software%20Development&descSize=15&descColor=E0D1B7&descAlignY=68" width="100%" alt="Mohammad Murad Khan — GitHub profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:26382C,45:52634B,100:9A795A&height=190&section=header&text=Mohammad%20Murad%20Khan&fontSize=38&fontColor=F5EBDD&fontAlignY=42&desc=Code%20%7C%20Curiosity%20%7C%20Continuous%20Learning&descSize=15&descColor=E8DDC9&descAlignY=68" width="100%" alt="Mohammad Murad Khan"/>
 
 <br/>
 
-### السلام عليكم ورحمة الله وبركاته
+*السلام علیکم* &nbsp; · &nbsp; **Assalamu Alaikum**
 
-*Assalamu Alaikum wa Rahmatullahi wa Barakatuh* 🌿
+### CSE @ NIT Srinagar · Developer · Curious by nature
 
-**A developer from Kashmir, building one project at a time.**
-
-[GitHub](https://github.com/MohammadMuradkhan) · [Repositories](https://github.com/MohammadMuradkhan?tab=repositories) · [LeetCode](https://leetcode.com/u/mohammadmuradkhan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-405643?style=flat-square&logo=github&logoColor=F5EBDD)](https://github.com/MohammadMuradkhan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20solving-A98467?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/mohammadmuradkhan/)
 
 </div>
 
 ---
 
-## A little about me
+## A bit about me
 
-Hey! I'm **Mohammad Murad Khan**, a Computer Science and Engineering student at **NIT Srinagar**.
+Hey! I'm **Mohammad Murad Khan**, a Computer Science and Engineering student at NIT Srinagar.
 
-I like solving problems, understanding how things work behind the scenes, and turning ideas into working software. Most of my time goes into C++, DSA, web development, and lately, exploring how AI can make applications more useful.
+I enjoy solving problems, building things that actually work, and understanding what happens behind the scenes. Most days, you'll find me somewhere between C++, web development, and an idea I want to experiment with.
 
-- 💻 **Currently building:** Full-stack web applications
-- 🧩 **My comfort zone:** C++, DSA, and backend development
-- 🤖 **Exploring:** AI integration and retrieval-based systems
-- 🎯 **Working towards:** Becoming a better software engineer
+I'm particularly interested in backend engineering, AI/ML, and the process of turning raw data into something meaningful.
 
-*Bas, seekhna hai aur kuch achha banana hai.*  
-*(Just keep learning and build something worthwhile.)*
+- 💻 I enjoy writing C++ and working through DSA problems.
+- ⚙️ I build full-stack applications and explore backend systems.
+- 🤖 I'm exploring AI/ML and **Exploratory Data Analysis (EDA)**.
+- 🌱 Always learning something new, even if it's one small thing at a time.
 
-## The toolbox 🛠️
+## What I'm exploring lately
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 — Development**
+
+Building web applications, designing APIs, and understanding how frontend and backend systems fit together.
+
+`React` · `Node.js` · `Express`
+
+</td>
+<td width="50%" valign="top">
+
+**02 — Data & AI**
+
+Exploring data analysis, finding patterns in datasets, and learning how machine learning systems work.
+
+`Python` · `Pandas` · `NumPy`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 — Problem solving**
+
+Practising DSA, improving my approach to algorithms, and preparing for software engineering interviews.
+
+`C++` · `DSA` · `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+**04 — Just curious**
+
+There are always more things to learn. Currently interested in language learning, reading, and ideas beyond the world of code.
+
+`Arabic` · `Persian` · `Books`
+
+</td>
+</tr>
+</table>
+
+## My tech stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css&theme=light" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css&theme=light" alt="Programming languages"/>
 
-**Frontend**
+**Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind&theme=light" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,nodejs,express&theme=light" alt="Web development technologies"/>
 
-**Backend & Databases**
+**Data & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=light" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=light" alt="Databases and ORM"/>
 
-**Everyday tools**
+**Tools I use**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=light" alt="Developer tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=light" alt="Developer tools"/>
 
 </div>
 
-## A few things I've built 🌱
+## Things I've built
 
 <table>
 <tr>
@@ -61,26 +105,22 @@ I like solving problems, understanding how things work behind the scenes, and tu
 
 ### 🪴 Solace AI
 
-An AI-powered mental wellbeing assistant designed around conversational AI and document-based context.
+An AI-powered mental wellbeing assistant built around conversational AI and document-based context.
 
-**Built with**
+`React` `TypeScript` `Node.js` `MongoDB` `Groq`
 
-`React` `TypeScript` `Node.js` `Express` `MongoDB` `Groq`
-
-[Explore the project ↗](https://github.com/MohammadMuradkhan/Solace_AI)
+[View repository ↗](https://github.com/MohammadMuradkhan/Solace_AI)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔗 URL Shortener
 
-A backend project focused on creating shortened URLs, handling API requests, and implementing authentication.
-
-**Built with**
+A backend project exploring URL shortening, API development, and authentication.
 
 `Node.js` `Express` `MongoDB` `JWT`
 
-[Explore the project ↗](https://github.com/MohammadMuradkhan/short-url)
+[View repository ↗](https://github.com/MohammadMuradkhan/short-url)
 
 </td>
 </tr>
@@ -89,70 +129,57 @@ A backend project focused on creating shortened URLs, handling API requests, and
 
 ### 💼 React Jobs
 
-A job-listing interface built to practise modern React development and frontend design.
-
-**Built with**
+A job-listing interface built with React and modern frontend tools.
 
 `React` `Vite` `Tailwind CSS`
 
-[Explore the project ↗](https://github.com/MohammadMuradkhan/React-Jobs)
+[View repository ↗](https://github.com/MohammadMuradkhan/React-Jobs)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌿 More along the way
+### More experiments
 
-I keep experimenting with ideas, learning new tools, and improving the projects I've already built.
+I like learning by building. There are more projects, ideas, and experiments in my repositories.
 
-[Browse all repositories ↗](https://github.com/MohammadMuradkhan?tab=repositories)
+[Explore all repositories ↗](https://github.com/MohammadMuradkhan?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-## The problem-solving side 🧩
+## Beyond the screen ☕📚
 
-I enjoy DSA because it teaches you to think through a problem, not just write code that works.
+Not everything has to be about code.
 
-<div align="center">
+- **Languages:** Arabic is on my learning list (basic level so far), and Persian is a language I'd love to learn from scratch.
+- **Reading:** I enjoy picking up a book now and then, especially when I need a break from screens.
+- **Curiosity:** I like exploring ideas outside computer science just as much as I like figuring out technical problems.
 
-<a href="https://leetcode.com/u/mohammadmuradkhan/">
-<img src="https://img.shields.io/badge/LeetCode-Practice%20%26%20Progress-6D7653?style=for-the-badge&logo=leetcode&logoColor=F4EBDD" alt="LeetCode profile"/>
-</a>
+A little progress every day goes a long way.
 
-</div>
-
-## A glimpse of my GitHub
+## A small look at GitHub
 
 <div align="center">
 
 <a href="https://github.com/MohammadMuradkhan">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadMuradkhan&show_icons=true&hide_border=true&bg_color=F4EBDD&title_color=405643&icon_color=9B7953&text_color=393B32&ring_color=78866B" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadMuradkhan&show_icons=true&hide_border=true&bg_color=26382C&title_color=E4CDA7&icon_color=B7C49A&text_color=F5EBDD" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/MohammadMuradkhan">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMuradkhan&layout=compact&hide_border=true&bg_color=F4EBDD&title_color=405643&text_color=393B32" alt="Most-used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMuradkhan&layout=compact&hide_border=true&bg_color=26382C&title_color=E4CDA7&text_color=F5EBDD" alt="Most-used languages"/>
 </a>
 
 </div>
 
-*Just a record of the journey, not a competition.*
-
-## Outside the terminal 🏔️
-
-Kashmir will always be a part of my story. I appreciate its mountains, its language, its warmth, and the little things that make it home.
-
-**Khush raho, seekhte raho.**  
-خوش رہو، سیکھتے رہو
-
-*Stay well, keep learning.*
-
----
+## Until next time 🌿
 
 <div align="center">
 
-*Made with curiosity, a little chai ☕, and plenty of debugging.*
+*Keep learning. Stay curious. Build things that matter.*
 
-**Shukriya for stopping by. 🤎**
+**شکریہ — Shukriya for stopping by.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=26382C&height=5" width="100%" alt=""/>
 
 </div>
